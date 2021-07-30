@@ -6,7 +6,7 @@ import java.util.LinkedList;
 /**
  * 重建二叉树
  *
- * @author zhaozhichao@cestc.cn
+ * @author VirusBingo
  * @date 2021/07/29 4:55 下午
  **/
 public class BuildTree {

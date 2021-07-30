@@ -3,7 +3,7 @@ package com.learn.algorithm;
 /**
  * TODO
  *
- * @author zhaozhichao@cestc.cn
+ * @author VirusBingo
  * @date 2021/06/29 10:27 下午
  **/
 public class LemonSquash860 {
@@ -16,7 +16,7 @@ public class LemonSquash860 {
 
     /**
      * @return boolean
-     * @author zhaozhichao@cestc.cn
+     * @author VirusBingo
      * @date 2021/06/29 23:11:19
      */
     private static boolean lemonadeChange(int[] bills) {

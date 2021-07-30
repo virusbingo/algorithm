@@ -7,7 +7,7 @@ import java.util.Map;
 /**
  * 两数之和
  *
- * @author zhaozhichao@cestc.cn
+ * @author VirusBingo
  * @date 2021/06/28 10:25 下午
  **/
 public class TwoSum1 {

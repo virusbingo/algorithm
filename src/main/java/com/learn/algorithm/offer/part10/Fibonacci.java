@@ -3,7 +3,7 @@ package com.learn.algorithm.offer.part10;
 /**
  * 斐波那契数列
  *
- * @author zhaozhichao@cestc.cn
+ * @author VirusBingo
  * @date 2021/07/28 3:02 下午
  **/
 public class Fibonacci {

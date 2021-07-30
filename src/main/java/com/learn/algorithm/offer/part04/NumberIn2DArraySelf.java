@@ -3,7 +3,7 @@ package com.learn.algorithm.offer.part04;
 /**
  * TODO
  *
- * @author zhaozhichao@cestc.cn
+ * @author VirusBingo
  * @date 2021/07/27 2:23 下午
  **/
 public class NumberIn2DArraySelf {

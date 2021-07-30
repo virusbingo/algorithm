@@ -6,7 +6,7 @@ import java.util.Set;
 /**
  * 剑指 Offer 03. 数组中重复的数字
  *
- * @author zhaozhichao@cestc.cn
+ * @author VirusBingo
  * @date 2021/07/21 4:51 下午
  **/
 public class RepeatNumberForArray {

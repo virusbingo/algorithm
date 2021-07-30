@@ -5,7 +5,7 @@ import java.util.Stack;
 /**
  * 从尾到头打印链表
  *
- * @author zhaozhichao@cestc.cn
+ * @author VirusBingo
  * @date 2021/07/29 11:12 上午
  **/
 public class Part06 {

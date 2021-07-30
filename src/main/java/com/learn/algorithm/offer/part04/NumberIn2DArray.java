@@ -3,7 +3,7 @@ package com.learn.algorithm.offer.part04;
 /**
  * 剑指 Offer 04. 二维数组中的查找
  *
- * @author zhaozhichao@cestc.cn
+ * @author VirusBingo
  * @date 2021/07/22 3:17 下午
  **/
 public class NumberIn2DArray {

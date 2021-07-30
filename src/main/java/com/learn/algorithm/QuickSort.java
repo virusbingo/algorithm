@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /**
  * 快速排序算法
- * @author zhaozhichao@cestc.cn
+ * @author VirusBingo
  * @date 2021/06/28 5:44 下午
  **/
 public class QuickSort {
@@ -23,7 +23,7 @@ public class QuickSort {
      * @param arr 需要排序的数组
      * @param left 数组起始位置
      * @param right 数组结束位置
-     * @author zhaozhichao@cestc.cn
+     * @author VirusBingo
      * @date 2021/06/28 17:51:35
      */
     private static void quickSort(int[] arr, int left, int right) {

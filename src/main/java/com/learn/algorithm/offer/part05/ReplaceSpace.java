@@ -3,7 +3,7 @@ package com.learn.algorithm.offer.part05;
 /**
  * TODO
  *
- * @author zhaozhichao@cestc.cn
+ * @author VirusBingo
  * @date 2021/07/29 9:48 上午
  **/
 public class ReplaceSpace {
