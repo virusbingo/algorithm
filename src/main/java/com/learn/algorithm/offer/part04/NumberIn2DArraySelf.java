@@ -34,8 +34,8 @@ public class NumberIn2DArraySelf {
         } else {
             int rowLength = matrix.length - 1;
             int columnLength = matrix[0].length - 1;
-            int rowMid = (rowEnd + rowStart) / 2;
-            int columnMid = (columnEnd + columnStart) / 2;
+            int rowMid = rowStart + ((rowEnd - rowStart) >> 1);
+            int columnMid = columnStart + ((columnEnd - columnStart) >> 1);
             if (core(matrix, target, rowStart, rowMid, columnStart, columnMid)) {
                 return Boolean.TRUE;
             } else if (core(matrix, target, rowMid >= rowLength ? rowEnd : rowMid + 1, rowEnd, columnStart, columnMid)){
@@ -59,7 +59,7 @@ public class NumberIn2DArraySelf {
                 {18, 21, 23, 26, 30}
         };
 //        int[][] matrix = new int[][]{{1},{3},{5}};
-        System.out.println(findNumberIn2DArray(matrix,67));
+        System.out.println(findNumberIn2DArray(matrix,6));
 
     }
 
