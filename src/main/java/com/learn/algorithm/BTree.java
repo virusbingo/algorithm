@@ -27,17 +27,17 @@ public class BTree {
         if (tree == null) {
             return;
         }
-        pre(tree.left);
+        in(tree.left);
         System.out.println(tree.value);
-        pre(tree.right);
+        in(tree.right);
     }
 
     public void order(Node tree) {
         if (tree == null) {
             return;
         }
-        pre(tree.left);
-        pre(tree.right);
+        order(tree.left);
+        order(tree.right);
         System.out.println(tree.value);
     }
 
